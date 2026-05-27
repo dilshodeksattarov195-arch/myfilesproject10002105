@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerprocess",
+        "uuid": 7409600,
+        "checksum": "1gt31j"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
